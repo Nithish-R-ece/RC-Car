@@ -56,7 +56,7 @@ Open `code/rc_car/rc_car.ino` in the Arduino IDE and upload it to the Arduino Un
 
 ## Repository Structure
 ```
-rc-car-project/
+RC-Car/
 ├── README.md
 ├── code/
 │   └── rc_car/
@@ -70,4 +70,4 @@ rc-car-project/
 ```
 
 ## Author
-Built by [Your Name].
+Built by Nithish R.
